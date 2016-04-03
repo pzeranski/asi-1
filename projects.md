@@ -85,5 +85,5 @@ Piątek, 12.15:
 1. [Tyczyński Michał](https://github.com/mtyczynski/rails)
 1. Wiśniewski Bartosz 11.03
 1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)
-1. Żerański Piotr 11.03
+1. [Żerański Piotr](https://github.com/pzeranski/asi)
 1. [Żuk Adam](https://github.com/adamzuk/asi-project)
